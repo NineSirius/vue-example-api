@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_social_soczialnye_seti",
+  "info": {
+    "displayName": "Социальные сети"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
