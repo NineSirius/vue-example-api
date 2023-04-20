@@ -13,12 +13,6 @@
   "attributes": {
     "name": {
       "type": "string"
-    },
-    "owners": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::team.team",
-      "inversedBy": "position"
     }
   }
 }
