@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_gallery_page_kartinki",
+  "info": {
+    "displayName": "Картинки"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "galleries",
+  "info": {
+    "singularName": "gallery",
+    "pluralName": "galleries",
+    "displayName": "Галлерея",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "description2": {
+      "type": "string"
+    },
+    "btn_text": {
+      "type": "string"
+    },
+    "gallery_images": {
+      "type": "component",
+      "repeatable": true,
+      "component": "gallery-page.kartinki"
+    }
+  }
+}

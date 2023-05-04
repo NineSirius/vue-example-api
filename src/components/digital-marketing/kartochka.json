@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_digital_marketing_kartochka",
+  "info": {
+    "displayName": "Карточка"
+  },
+  "options": {},
+  "attributes": {
+    "icon_name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    }
+  }
+}

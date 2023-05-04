@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_products_products",
+  "info": {
+    "displayName": "product",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "product_title": {
+      "type": "string"
+    },
+    "product_feature": {
+      "type": "string"
+    },
+    "product_feature2": {
+      "type": "string"
+    },
+    "product_feature3": {
+      "type": "string"
+    },
+    "product_feature4": {
+      "type": "string"
+    },
+    "product_feature5": {
+      "type": "string"
+    },
+    "product_btn_text": {
+      "type": "string"
+    },
+    "product_price": {
+      "type": "string"
+    }
+  }
+}

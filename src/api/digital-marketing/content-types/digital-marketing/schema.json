@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "digital_marketings",
+  "info": {
+    "singularName": "digital-marketing",
+    "pluralName": "digital-marketings",
+    "displayName": "Digital Marketing",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "digital_marketing_features": {
+      "displayName": "Карточка",
+      "type": "component",
+      "repeatable": true,
+      "component": "digital-marketing.kartochka"
+    }
+  }
+}

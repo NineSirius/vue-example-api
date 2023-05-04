@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_product_info_info_o_produkte",
+  "info": {
+    "displayName": "Инфо о продукте",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "wrap_title": {
+      "type": "string"
+    },
+    "wrap_desc": {
+      "type": "text"
+    },
+    "about_product": {
+      "type": "text"
+    },
+    "product_features": {
+      "displayName": "Список",
+      "type": "component",
+      "repeatable": false,
+      "component": "list.spisok"
+    },
+    "product_price_info": {
+      "displayName": "Цена и Доп инфа",
+      "type": "component",
+      "repeatable": false,
+      "component": "product-price-info.czena-i-dop-infa"
+    },
+    "product1": {
+      "displayName": "product",
+      "type": "component",
+      "repeatable": true,
+      "component": "products.product"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "kind": "singleType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": " О нас",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "page_header": {
+      "displayName": "Шапка страницы",
+      "type": "component",
+      "repeatable": false,
+      "component": "page-header.shapka-straniczy"
+    },
+    "product_info": {
+      "displayName": "Инфо о продукте",
+      "type": "component",
+      "repeatable": false,
+      "component": "product-info.info-o-produkte"
+    },
+    "about_stats": {
+      "displayName": "Статистика о нас",
+      "type": "component",
+      "repeatable": false,
+      "component": "about-page.statistika-o-nas"
+    },
+    "about_stats_wrap": {
+      "displayName": "Статистика об нас",
+      "type": "component",
+      "repeatable": false,
+      "component": "about-page.statistika-ob-nas"
+    }
+  }
+}

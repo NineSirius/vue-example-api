@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sponsors_sponsory",
+  "info": {
+    "displayName": "Спонсоры"
+  },
+  "options": {},
+  "attributes": {
+    "sponsor_logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "sponsor_link": {
+      "type": "string"
+    }
+  }
+}

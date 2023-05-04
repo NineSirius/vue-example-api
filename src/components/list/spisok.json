@@ -1,0 +1,42 @@
+{
+  "collectionName": "components_list_spisok",
+  "info": {
+    "displayName": "Список"
+  },
+  "options": {},
+  "attributes": {
+    "feature1": {
+      "type": "string"
+    },
+    "feature2": {
+      "type": "string"
+    },
+    "feature3": {
+      "type": "string"
+    },
+    "feature4": {
+      "type": "string"
+    },
+    "feature5": {
+      "type": "string"
+    },
+    "feature6": {
+      "type": "string"
+    },
+    "feature7": {
+      "type": "string"
+    },
+    "feature8": {
+      "type": "string"
+    },
+    "feature9": {
+      "type": "string"
+    },
+    "feature10": {
+      "type": "string"
+    },
+    "feature_title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_header_shapka_straniczy",
+  "info": {
+    "displayName": "Шапка страницы",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "description2": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_about_page_kartochka_staty_o_nas",
+  "info": {
+    "displayName": "Карточка статы о нас"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_about_page_statistika_ob_nas",
+  "info": {
+    "displayName": "Статистика об нас"
+  },
+  "options": {},
+  "attributes": {
+    "about_stats_cards": {
+      "displayName": "Карточка статистики об нас",
+      "type": "component",
+      "repeatable": true,
+      "component": "about-page.kartochka-statistiki-ob-nas"
+    }
+  }
+}

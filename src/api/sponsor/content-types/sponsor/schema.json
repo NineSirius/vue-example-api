@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "sponsors",
+  "info": {
+    "singularName": "sponsor",
+    "pluralName": "sponsors",
+    "displayName": "Спонсоры"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sponsors": {
+      "displayName": "Спонсоры",
+      "type": "component",
+      "repeatable": true,
+      "component": "sponsors.sponsory"
+    }
+  }
+}

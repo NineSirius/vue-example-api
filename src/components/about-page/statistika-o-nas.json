@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_about_page_statistika_o_nas",
+  "info": {
+    "displayName": "Статистика о нас"
+  },
+  "options": {},
+  "attributes": {
+    "about_stats_items": {
+      "displayName": "Карточка статы о нас",
+      "type": "component",
+      "repeatable": true,
+      "component": "about-page.kartochka-staty-o-nas"
+    },
+    "about_stats_picture": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

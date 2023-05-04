@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_product_price_info_czena_i_dop_infa",
+  "info": {
+    "displayName": "Цена и Доп инфа",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "quote": {
+      "type": "string"
+    },
+    "btn_text": {
+      "type": "string"
+    },
+    "quote2": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    }
+  }
+}
